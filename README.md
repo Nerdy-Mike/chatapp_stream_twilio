@@ -7,7 +7,7 @@
 This chat app is build with real-time SMS `twilio` and is optimized for internal systems, especially for emergency settings.
 
 ## Packages overview
-<div align="center">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start;">
   <div style="display: flex; align-items: center; justify-content: flex-start;">
     <div style="display: flex; flex-direction: column; align-items: flex-start; padding:0 50px">
     <h3> Front-end</h3>
